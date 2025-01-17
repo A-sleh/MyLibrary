@@ -1,5 +1,6 @@
 <?php
 
+    use Itrax\Db ;
     interface dbContract {
         public function insert($data) ;
         public function update($data) ; 

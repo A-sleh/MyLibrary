@@ -1,0 +1,17 @@
+{
+    "name": "itrax/db",
+    "description": "database connection class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A-sleh",
+            "email": "146457544+A-sleh@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
