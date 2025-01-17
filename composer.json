@@ -1,5 +1,5 @@
 {
-    "name": "itrax/db",
+    "name": "fofo/db",
     "description": "database connection class",
     "type": "library",
     "autoload": {
